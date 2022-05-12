@@ -1,0 +1,1 @@
+{'Cinnamon': 500, 'Cumin': 300, 'Pepper': 400, 'Onion': 700, 'Spinach': 450, 'Cabbage': 200, 'Apple': 140, 'Banana': 100, 'Orange': 120}

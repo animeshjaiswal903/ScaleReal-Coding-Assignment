@@ -1,0 +1,1 @@
+{'Spices': ['Cinnamon', 'Cumin', 'Pepper'], 'Veggies': ['Onion', 'Spinach', 'Cabbage'], 'Fruits': ['Apple', 'Banana', 'Orange']}

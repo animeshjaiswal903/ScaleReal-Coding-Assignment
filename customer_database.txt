@@ -1,0 +1,6 @@
+Customer Data:
+
+
+ 
+Name: Animesh ; Actual amount(Rs): 41500 ; Dicount(Rs): 500 ; Final bill(Rs): 41000 ; Cart items: {'Cinnamon': 10, 'Onion': 20, 'Spinach': 50} 
+
